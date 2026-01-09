@@ -1,0 +1,502 @@
+:: StoryTitle
+PALOMA
+
+
+:: StoryData
+{
+  "ifid": "ED78063A-B85F-4DE6-927B-F9A4BB3497D0",
+  "format": "Paloma",
+  "format-version": "1.1.3",
+  "start": "radio",
+  "tag-colors": {
+    "header": "blue"
+  },
+  "zoom": 1
+}
+
+
+:: \ ... {"position":"425,675","size":"100,100"}
+<div class="typewriter centered">
+  \*inhale\*
+</div>
+
+<div id="after" style="display:none;" data-display="block" class="centered">
+  [[*exhale*]]<br>
+</div>
+
+
+:: *exhale* {"position":"425,800","size":"100,100"}
+<div class="typewriter centered">
+  milky arms tightened around what laid peacefully. a
+</div>
+
+<div id="after" style="display:none;" data-display="block" class="centered">
+  [[kiss,]] [[soft.]]<br>
+</div>
+
+
+:: ... {"position":"800,1825","size":"100,100"}
+<div class="typewriter centered">
+</div>
+
+<div id="after" style="display:none;" data-display="block" class="centered">
+  [[... ...]]
+</div>
+
+
+:: ... ... {"position":"1075,1825","size":"100,100"}
+<div class="typewriter centered">
+</div>
+
+<div id="after" style="display:none;" data-display="block" class="centered">
+[[knock knock->credits]]
+</div>
+
+
+:: bliss {"position":"675,1050","size":"100,100"}
+<div class="typewriter centered">
+  "someone is in love," she said, adjusting so he was comfortable and so she could soak up the sun
+</div>
+
+<div id="after" style="display:none;" data-display="block" class="centered">
+  [[too.]]<br>
+</div>
+
+
+:: breathe her in. {"position":"425,550","size":"100,100"}
+<div class="typewriter centered">
+  honey nut and strawberry, smooth nilla, berries and all kinds of oils wrapped around him — her scent, his
+</div>
+
+<div id="after" style="display:none;" data-display="block" class="centered">
+  [[calm -> ...]]<br>
+</div>
+
+
+:: credits {"position":"950,100","size":"100,100"}
+<div class="typewriter centered">
+“sun through lace” is a digital poem — soft, quiet, and slow like morning. it unfolds gently, not to surprise, but to soothe. there’s no plot to chase. just love, light, and time suspended.
+
+this piece is about stillness. about being with someone so closely the world disappears. i wanted to hold that moment. to stretch it across a dozen gentle clicks.
+
+i used twine not for traditional choices, but for breath. the hyperlinks don’t change the story — they let you sink into it. each one is like a touch or a glance. small, but intimate. i kept the palette warm and the text centered, so it feels like a memory. a sunday morning. a bedroom you know by heart.
+
+the typewriter effect slows the reader down. no rushing. no skipping ahead. just one line at a time — the way thoughts arrive when you’re half-asleep and completely in love.
+
+this piece is part of my poetry collection "i swear to saturn". it lives between poem and game, story and silence. a little digital intimacy.
+
+i hope it makes you breathe softer.
+</div>
+
+<div id="after" style="display:none;" data-display="block" class="centered">
+[[hold her tighter? ->radio]]
+
+
+
+:: embrace her... {"position":"200,625","size":"100,100"}
+<div class="typewriter centered">
+  "someone’s tired," he whispered, face pressed into the dream he could
+</div>
+
+<div id="after" style="display:none;" data-display="block" class="centered">
+  [[hold.]]
+</div>
+
+
+:: header [header] {"position":"875,325","size":"100,100"}
+<div style="background: #F1E4A0; text-align: center; padding: 0.5em;">
+  sun through lace
+</div>
+
+<div id="sideNote">*"this is what waking up with you sounds like."*</div>
+
+<script>
+$('tw-sidebar tw-icon[title="Undo"]').text("Back").attr("title", "Back"):
+
+</script>
+
+
+:: hold. {"position":"625,675","size":"100,100"}
+<div class="typewriter centered">
+  honey nut and strawberry, smooth nilla, berries and all kinds of oils wrapped around him — her scent, his calm.
+</div>
+
+<div id="after" style="display:none;" data-display="block" class="centered">
+  [[warm milk...]]<br>
+</div>
+
+
+:: just one more moment {"position":"700,1675","size":"100,100"}
+<div class="typewriter centered">
+</div>
+
+<div id="after" style="display:none;" data-display="block" class="centered">
+  [[...]]
+</div>
+
+
+:: kiss, {"position":"500,925","size":"100,100"}
+<div class="typewriter centered">
+  love tastes like
+</div>
+
+<div id="after" style="display:none;" data-display="block" class="centered">
+  [[us.]] she stirs and<br>
+</div>
+
+
+:: of... {"position":"550,1425","size":"100,100"}
+<div class="typewriter centered">
+  ...yet she and he held each
+</div>
+
+<div id="after" style="display:none;" data-display="block" class="centered">
+  [[other,]]<br>
+</div>
+
+
+:: other, {"position":"400,1600","size":"100,100"}
+<div class="typewriter centered">
+  as if they were all of a sudden rich.
+</div>
+
+<div id="after" style="display:none;" data-display="block" class="centered">
+  [[replay->credits]]<br>
+  [[just one more moment]]<br>
+</div>
+
+
+:: play {"position":"575,275","size":"100,100"}
+<div class="typewriter centered">
+  dipped in mocha and drizzled with a sheer lacey green and dandelions. she was peaceful laying there.
+</div>
+
+
+<div id="after" style="display:none;" data-display="block" class="centered">
+  [[sunlight soaked the floorboards]]<br>
+  [[tick tick tick]]<br>
+</span>
+
+
+:: precious. {"position":"550,1300","size":"100,100"}
+<div class="typewriter centered">
+  a currency no one held an abundance
+</div>
+
+<div id="after" style="display:none;" data-display="block" class="centered">
+  [[of...]]<br>
+</div>
+
+
+:: radio {"position":"600,125","size":"100,100"}
+<div class="centered">
+  <img src="ascii_radio-removebg-preview.png" alt="radio" style="max-width: 100%; height: auto;"><br>
+  [[play]]
+</div>
+
+
+:: soft. {"position":"750,925","size":"100,100"}
+<div class="typewriter centered">
+  she opened one eye, looking down to see the contrast of their
+</div>
+
+<div id="after" style="display:none;" data-display="block" class="centered">
+  [[bliss->bliss]] – arms wrapped tightly as if she'd leave.<br>
+</div>
+
+
+:: sunlight soaked the floorboards {"position":"325,350","size":"100,100"}
+<div class="typewriter centered">
+sunlight soaked the floorboards and week-old clothes he promised to clean.
+the wind rippled through the curtains like breath between lovers.
+</div>
+
+
+<div id="after" style="display:none;" data-display="block" class="centered">
+  [[embrace her...]]<br>
+  [[breathe her in.]]<br>
+</span>
+
+
+:: tick tick tick {"position":"700,400","size":"100,100"}
+<div class="typewriter centered">
+  mama didn't speak –  just synced the souls that couldn't be any closer. a prayer whispered not aloud but in
+</div>
+
+<div id="after" style="display:none;" data-display="block" class="centered">
+  [[touch]]<br>
+</div>
+
+
+:: too. {"position":"550,1175","size":"100,100"}
+<div class="typewriter centered">
+  oh, how time was so
+</div>
+
+<div id="after" style="display:none;" data-display="block" class="centered">
+  [[precious.]]<br>
+</div>
+
+
+:: touch {"position":"612.5,550","size":"100,100"}
+<div class="typewriter centered">
+  "someone’s tired," he whispered, face pressed into the dream he could
+</div>
+
+<div id="after" style="display:none;" data-display="block" class="centered">
+  [[hold.]]<br>
+</div>
+
+
+:: us. {"position":"550,1050","size":"100,100"}
+<div class="typewriter centered">
+  opened one eye, gazed at their tangled limbs. "someone is in love," she said, adjusting so the light could kiss her
+</div>
+
+<div id="after" style="display:none;" data-display="block" class="centered">
+  [[too.]]<br>
+</div>
+
+
+:: warm milk... {"position":"775,775","size":"100,100"}
+<div class="typewriter centered">
+  ...y arms tightened around what laid peacefully. a
+</div>
+
+<div id="after" style="display:none;" data-display="block" class="centered">
+  [[kiss,]] [[soft.]]<br>
+</div>
+
+
+:: StoryScript [script]
+/* CONSTANT UI: header + side note (added once, no fade) */
+(function mountFixedUI() {
+  if (!document.getElementById('gameTitle')) {
+    const h = document.createElement('div');
+    h.id = 'gameTitle';
+    h.textContent = 'sun through lace';
+    document.body.prepend(h);
+  }
+  if (!document.getElementById('sideNote')) {
+    const n = document.createElement('div');
+    n.id = 'sideNote';
+    n.textContent = '“this is what waking up with you sounds like.”';
+    document.body.appendChild(n);
+  }
+})();
+
+/* AUDIO: simple + reliable (MP3 recommended) */
+(function setupBGM() {
+  if (document.getElementById('bgm')) return;
+  const a = document.createElement('audio');
+  a.id = 'bgm';
+  a.setAttribute('preload', 'auto');
+  a.loop = true;
+
+  /* Provide MP3 first; add OGG as fallback if you have it */
+  const s1 = document.createElement('source');
+  s1.src = 'nexttoyou.mp3';      // <-- put your mp3 next to the exported HTML
+  s1.type = 'audio/mpeg';
+  a.appendChild(s1);
+  // Optional second format:
+  // const s2 = document.createElement('source');
+  // s2.src = 'nexttoyou.ogg';
+  // s2.type = 'audio/ogg';
+  // a.appendChild(s2);
+
+  document.body.appendChild(a);
+
+  a.volume = 0.7;
+  a.play().catch(() => {
+    // start on first user interaction if autoplay is blocked
+    const once = () => { a.play().catch(()=>{}); document.removeEventListener('pointerdown', once); };
+    document.addEventListener('pointerdown', once, { once: true });
+  });
+})();
+
+/* TYPEWRITER: types innerHTML (preserves links) and then reveals #after sibling */
+(function typewriterAuto() {
+  function typeWriter(el, speed = 60, done) {
+    if (el.dataset.typed === '1') { done && done(); return; }
+    const html = el.innerHTML;        // keep markup/links
+    el.innerHTML = '';
+    let i = 0;
+    (function tick() {
+      if (i < html.length) {
+        el.innerHTML += html.charAt(i++);
+        setTimeout(tick, speed);
+      } else {
+        el.dataset.typed = '1';
+        const parent = el.parentElement;
+        if (parent) {
+          const after = parent.querySelector('#after');
+          if (after) {
+            const mode = after.dataset.display || 'inline';
+            after.style.display = mode;
+          }
+        }
+        done && done();
+      }
+    })();
+  }
+
+  // run on any .typewriter that already exists
+  document.querySelectorAll('.typewriter').forEach(el => typeWriter(el));
+
+  // run on any .typewriter appended later (Paloma appends vertically)
+  const obs = new MutationObserver(muts => {
+    muts.forEach(m => {
+      m.addedNodes && m.addedNodes.forEach(node => {
+        if (node.nodeType !== 1) return;
+        if (node.matches && node.matches('.typewriter')) typeWriter(node);
+        node.querySelectorAll && node.querySelectorAll('.typewriter').forEach(el => typeWriter(el));
+      });
+    });
+  });
+  obs.observe(document.body, { childList: true, subtree: true });
+
+  // expose for manual use in passages if you want it
+  window.typeWriter = typeWriter;
+})();
+
+:: StoryStylesheet [stylesheet]
+/* =========================
+   sun through lace — Paloma CSS
+   ========================= */
+
+/* Font */
+@import url('https://fonts.googleapis.com/css2?family=Tiny5&display=swap');
+
+/* Hide Paloma's automatic title, subtitle, and author */
+#ptitle, #psub, #psubtitle, #pauthor {
+  display: none !important;
+}
+
+/* remove paloma’s dotted separators between passages */
+#phistory > passage {
+  border-bottom: none !important;
+  margin-bottom: 1.5em; /* optional: spacing between passages */
+  padding-bottom: 0;   /* tighten up if needed */
+}
+
+.hidden { display: none; }
+
+.typewriter { white-space: pre-wrap; letter-spacing: .05em; }
+.hidden { display: none !important; }
+
+.centered {
+  text-align: center;
+}
+
+.centered-link {
+  display: block;         /* forces it onto its own line */
+  text-align: center;     /* centers the hyperlink itself */
+  margin-top: 0.5em;      /* small space under the typewriter text */
+}
+
+/* one centered column for each passage chunk */
+.tw-center { text-align: center; }
+.tw-center > .tw-box {           /* the actual column */
+  display: inline-block;
+  text-align: left;              /* keep text left inside the centered block */
+}
+
+/* your existing helper */
+.hidden { display: none; }
+
+div.phistory { border-bottom: none;
+}
+
+div.phistory { color:#222;}
+
+body {
+  cursor: grab; /* or pointer, grab, text, etc. */
+}
+
+
+/* Palette */
+:root{
+  --bg:#F1E4A0;      /* Vanilla Cream */
+  --text:#4B2C20;    /* Espresso */
+  --link:#B56F3E;    /* Toasted Caramel */
+  --hover:#8F3C24;   /* Spiced Wine */
+  --header:#B59E7D;  /* Tobacco (optional use) */
+}
+
+/* Reset/base */
+html,body{
+  margin:0;
+  background:var(--bg);
+  color:var(--text);
+  font-family:'Tiny5',serif;
+  font-size:1em;
+  line-height:1.6;
+}
+
+/* Kill Paloma’s built-in title/brand/footer bits */
+#storyTitle,
+.story-title,
+header, header *,
+footer, footer *,
+.engine, .engine-name,
+.brand, .paloma, .paloma-title, .paloma-header,
+[data-engine], [data-engine-name]{
+  display:none !important;
+  visibility:hidden !important;
+  height:0 !important;
+  margin:0 !important;
+  padding:0 !important;
+  border:0 !important;
+}
+
+/* Your custom title — small, centered, no background bar */
+#gameTitle{
+  position:sticky;
+  top:0; left:0; right:0;
+  z-index:1000;
+  text-align:center;
+  font-size:1.6rem;          /* adjust to taste */
+  padding:.35em 0;
+  color:var(--text);
+  background:none;           /* keep text-only look */
+  border:none;
+}
+
+/* If you ever want a bar, uncomment:
+#gameTitle{
+  background:var(--header);
+  border-bottom:4px solid var(--hover);
+}
+*/
+
+/* Constant side note (left column) */
+#sideNote {
+  position: fixed;
+  left: 4vw;
+  top: 45vh;
+  max-width: 14ch;
+  color: var(--text);
+  pointer-events: none;       /* never blocks clicks */
+  font-style: italic;         /* italicized side note */
+}
+
+
+/* Links (warm, no underline) */
+a, a:link, a:visited, a:hover, a:active{
+  color:var(--link);
+  text-decoration:none;
+  border-bottom:none;
+  box-shadow:none;
+  outline:none;
+}
+a:hover{ color:var(--hover); }
+
+/* Helpers */
+.typewriter{ white-space:pre-wrap; letter-spacing:.05em; }
+.hidden{ display:none; }
+
+/* Keep story clear of the sticky title */
+body{ padding-top:4.25em; }
+
+/* Optional: disable any theme transitions/fades Paloma might add */
+*{ transition:none !important; }
